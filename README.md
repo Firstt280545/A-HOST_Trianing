@@ -6,11 +6,12 @@ SQL
 PL/SQL
 
 💻Program💻
-Oracle Report
-sqldeveloper
-POWER BI DESKTOP
-BI Publisher Desktop
-wamp64
+Oracle XE https://www.oracle.com/database/technologies/appdev/xe/18c-quickstart.html
+sqldeveloper (1.) https://www.oracle.com/database/sqldeveloper/
+Oracle Report (2. , 3.) https://www.oracle.com/middleware/technologies/reports/downloads.html#
+BI Publisher Desktop https://www.oracle.com/middleware/technologies/analytics-publisher/downloads.html
+Power BI DESKTOP 
+wamp64 
 VS CODE 2022
 
 📝✏️STUDY✏️📝
@@ -18,7 +19,7 @@ VS CODE 2022
 2. Oracle PL/SQL
 3. Oracle Report Builder
 4. Business Process & ERP Overview
-5. BBackend Development (Business Logic) ASP.NET <C#>
+5. Backend Development (Business Logic) ASP.NET <C#>
 6. Frontend Development <VueJS>
 7. Business Intelligence Concept : BI
 8. Power BI
